@@ -14,11 +14,11 @@
 
 ## GEMINI API
 
-- https://ai.google.dev/gemini-api/docs/text-generation
+- <a href="https://ai.google.dev/gemini-api/docs/text-generation" target="_blank" rel="noopener noreferrer">https://ai.google.dev/gemini-api/docs/text-generation</a>
 
 ## DOTENV
 
-- https://www.npmjs.com/package/dotenv
+- <a href="https://www.npmjs.com/package/dotenv" target="_blank" rel="noopener noreferrer">https://www.npmjs.com/package/dotenv</a>
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## EXPRESS.JS
 
-- https://expressjs.com/en/5x/starter/installing/
+- <a href="https://expressjs.com/en/5x/starter/installing/" target="_blank" rel="noopener noreferrer">https://expressjs.com/en/5x/starter/installing/</a>
 
 ---
 
@@ -34,39 +34,41 @@
 
 ## REACT + VITE
 
-- https://vite.dev/guide/
+- <a href="https://vite.dev/guide/" target="_blank" rel="noopener noreferrer">https://vite.dev/guide/</a>
 
 ### CORS AND FIXES
 
-- https://expressjs.com/en/resources/middleware/cors/
-
-### FRONTEND AND BACKEND CONNECTION
-
-### REACT CONTROLLED INPUT
-
-- https://react.dev/reference/react-dom/components/input#controlling-an-input-with-a-state-variable
-
-### PARSING BODY
-
-- https://expressjs.com/en/5x/api/express/
-
-### POST ENDPOINTS
-
-- https://expressjs.com/en/5x/guide/routing/#route-methods
-- https://expressjs.com/en/3x/api/request/#reqbody
+- <a href="https://expressjs.com/en/resources/middleware/cors/" target="_blank" rel="noopener noreferrer">https://expressjs.com/en/resources/middleware/cors/</a>
 
 ---
 
 # PART 4
 
+## FRONTEND AND BACKEND CONNECTION
+
+- <a href="https://react.dev/reference/react-dom/components/input#controlling-an-input-with-a-state-variable" target="_blank" rel="noopener noreferrer">https://react.dev/reference/react-dom/components/input#controlling-an-input-with-a-state-variable</a>
+
+## PARSING BODY
+
+- <a href="https://expressjs.com/en/5x/api/express/" target="_blank" rel="noopener noreferrer">https://expressjs.com/en/5x/api/express/</a>
+
+## POST ENDPOINTS
+
+- <a href="https://expressjs.com/en/5x/guide/routing/#route-methods" target="_blank" rel="noopener noreferrer">https://expressjs.com/en/5x/guide/routing/#route-methods</a>
+- <a href="https://expressjs.com/en/3x/api/request/#reqbody" target="_blank" rel="noopener noreferrer">https://expressjs.com/en/3x/api/request/#reqbody</a>
+
+---
+
+# PART 5
+
 ## GEMINI IMAGE UNDERSTANDING
 
-- https://ai.google.dev/gemini-api/docs/image-understanding#upload-image
+- <a href="https://ai.google.dev/gemini-api/docs/image-understanding#upload-image" target="_blank" rel="noopener noreferrer">https://ai.google.dev/gemini-api/docs/image-understanding#upload-image</a>
 
 ## FILE UPLOAD IN REACT
 
-- https://www.geeksforgeeks.org/reactjs/file-uploading-in-react-js/
+- <a href="https://www.geeksforgeeks.org/reactjs/file-uploading-in-react-js/" target="_blank" rel="noopener noreferrer">https://www.geeksforgeeks.org/reactjs/file-uploading-in-react-js/</a>
 
 ## MULTER
 
-- https://expressjs.com/en/resources/middleware/multer/
+- <a href="https://expressjs.com/en/resources/middleware/multer/" target="_blank" rel="noopener noreferrer">https://expressjs.com/en/resources/middleware/multer/</a>
